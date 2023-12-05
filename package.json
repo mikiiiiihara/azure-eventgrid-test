@@ -1,5 +1,5 @@
 {
-  "name": "eventgrid-test",
+  "name": "azure-eventgrid-test",
   "version": "1.0.0",
   "description": "",
   "scripts": {
